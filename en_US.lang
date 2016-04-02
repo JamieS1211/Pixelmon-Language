@@ -674,7 +674,7 @@ item.HM7 - Waterfall.name=HM7: Waterfall
 item.HM8 - Rock Climb.name=HM8: Rock Climb
 item.HM9 - Whirlpool.name=HM9: Whirlpool
 item.HM10 - Dive.name=HM10: Dive
-           
+
 item.PokeMail-air.name=Air Mail
 item.PokeMail-bloom.name=Bloom Mail
 item.PokeMail-brick.name=Brick Mail
@@ -2143,7 +2143,7 @@ pixelmon.poliwag.description=Its skin is so thin, its internal organs are visibl
 pixelmon.poliwhirl.name=Poliwhirl
 pixelmon.poliwhirl.description=The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.
 pixelmon.poliwrath.name=Poliwrath
-pixelmon.poliwrath.description= The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness. 
+pixelmon.poliwrath.description= The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.
 pixelmon.bellsprout.name=Bellsprout
 pixelmon.bellsprout.description=It prefers hot and humid environments. It is quick at capturing prey with its vines.
 pixelmon.weepinbell.name=Weepinbell
@@ -3451,7 +3451,7 @@ pixelmon.entitytrainer.superrod=You received a Super Rod!
 pixelmon.entitytrainer.onceday=This Trainer can only be battled once a day.
 pixelmon.entitytrainer.oncemcday=This Trainer can only be battled once a Minecraft day.
 pixelmon.entitytrainer.onceplayer=This Trainer can only be battled once by each player.
-pixelmon.entitytrainer.level=Lv: 
+pixelmon.entitytrainer.level=Lv:
 pixelmon.entitytrainer.winnings=You won %s PokéDollars for defeating %s!
 
 pixelmon.statue.despawn=The Pokémon has been despawned.
@@ -3565,6 +3565,13 @@ pixelmon.blocks.fossilmachine.working=Working
 
 pixelmon.blocks.fossildisplay.ownership=This display case does not belong to you.
 pixelmon.blocks.fossildisplay.placecheck=You can only place clean Fossils in the display case.
+
+pixelmon.blocks.gymsign.ownership=This gym sign does not belong to you.
+
+pixelmon.blocks.tree.change1=You sucessfully changed the tree to type 1.
+pixelmon.blocks.tree.change1=You sucessfully changed the tree to type 2.
+pixelmon.blocks.tree.change1=You sucessfully changed the tree to type 3.
+pixelmon.blocks.tree.change1=You sucessfully changed the tree to type 4.
 
 pixelmon.blocks.cloningmachine.error=Error
 pixelmon.blocks.cloningmachine.finished=Finished
@@ -3780,7 +3787,7 @@ pixelmon.egg.hatching=Your Egg hatched into a %s!
 pixelmon.egg.hatchingan=Your Egg hatched into an %s!
 pixelmon.egg.hatchingdata=Slot: %s, Cycles: %s, Steps: %s
 pixelmon.egg.stage1=Sounds can be heard coming from inside! It will hatch soon!
-pixelmon.egg.stage2=It appears to move occasionally. It may be close to hatching. 
+pixelmon.egg.stage2=It appears to move occasionally. It may be close to hatching.
 pixelmon.egg.stage3=What will hatch from this? It doesn't seem close to hatching.
 pixelmon.egg.stage4=It looks like this Egg will take a long time to hatch.
 pixelmon.ranch.nopartner=%s has no one to fall in love with!
@@ -3989,7 +3996,7 @@ gui.chooseNPC.shopkeeper=Create Shopkeeper
 
 gui.shopkeeper.json=Type
 
-gui.overlay1v1.lv=Lv. 
+gui.overlay1v1.lv=Lv.
 
 gui.starter.trademark1=This is a fan-made mod. All trademarks and copyright for Pokémon are owned
 gui.starter.trademark2=by Nintendo and Game Freak Inc.
@@ -3999,7 +4006,7 @@ gui.starter.trademark5=Now, please pick your desired starter Pokémon!
 gui.starter.comingsoon=Coming Soon...
 gui.starter.disabled=Disabled
 
-gui.pc.box=Box: 
+gui.pc.box=Box:
 
 gui.selectpokemon.message=Select a Pokémon!
 
@@ -4489,6 +4496,35 @@ tile.unownblock_2.Z.name=Unown Block 'Z'
 tile.unownblock_2.!.name=Unown Block '!'
 tile.unownblock_2.?.name=Unown Block '?'
 tile.unownblock_2._.name=Blank Unown Block
+tile.brailleblock_1.A.name=Braille Block 'A'
+tile.brailleblock_1.B.name=Braille Block 'B'
+tile.brailleblock_1.C.name=Braille Block 'C'
+tile.brailleblock_1.D.name=Braille Block 'D'
+tile.brailleblock_1.E.name=Braille Block 'E'
+tile.brailleblock_1.F.name=Braille Block 'F'
+tile.brailleblock_1.G.name=Braille Block 'G'
+tile.brailleblock_1.H.name=Braille Block 'H'
+tile.brailleblock_1.I.name=Braille Block 'I'
+tile.brailleblock_1.J.name=Braille Block 'J'
+tile.brailleblock_1.K.name=Braille Block 'K'
+tile.brailleblock_1.L.name=Braille Block 'L'
+tile.brailleblock_1.M.name=Braille Block 'M'
+tile.brailleblock_1.N.name=Braille Block 'N'
+tile.brailleblock_1.O.name=Braille Block 'O'
+tile.brailleblock_1.P.name=Braille Block 'P'
+tile.brailleblock_2.Q.name=Braille Block 'Q'
+tile.brailleblock_2.R.name=Braille Block 'R'
+tile.brailleblock_2.S.name=Braille Block 'S'
+tile.brailleblock_2.T.name=Braille Block 'T'
+tile.brailleblock_2.U.name=Braille Block 'U'
+tile.brailleblock_2.V.name=Braille Block 'V'
+tile.brailleblock_2.W.name=Braille Block 'W'
+tile.brailleblock_2.X.name=Braille Block 'X'
+tile.brailleblock_2.Y.name=Braille Block 'Y'
+tile.brailleblock_2.Z.name=Braille Block 'Z'
+tile.brailleblock_2...name=Braille Block '.'
+tile.brailleblock_2.,.name=Braille Block ','
+tile.brailleblock_2._.name=Blank Braille Block
 tile.templeBrick.name=Temple Brick
 tile.templeBlock.name=Temple Block
 tile.templeStairs.name=Temple Stairs
@@ -5348,6 +5384,36 @@ UnownBlock2.Z.name=Unown Block 'Z'
 UnownBlock2.!.name=Unown Block '!'
 UnownBlock2.?.name=Unown Block '?'
 UnownBlock2._.name=Blank Unown Block
+
+BrailleBlock.A.name=Braille Block 'A'
+BrailleBlock.B.name=Braille Block 'B'
+BrailleBlock.C.name=Braille Block 'C'
+BrailleBlock.D.name=Braille Block 'D'
+BrailleBlock.E.name=Braille Block 'E'
+BrailleBlock.F.name=Braille Block 'F'
+BrailleBlock.G.name=Braille Block 'G'
+BrailleBlock.H.name=Braille Block 'H'
+BrailleBlock.I.name=Braille Block 'I'
+BrailleBlock.J.name=Braille Block 'J'
+BrailleBlock.K.name=Braille Block 'K'
+BrailleBlock.L.name=Braille Block 'L'
+BrailleBlock.M.name=Braille Block 'M'
+BrailleBlock.N.name=Braille Block 'N'
+BrailleBlock.O.name=Braille Block 'O'
+BrailleBlock.P.name=Braille Block 'P'
+BrailleBlock2.Q.name=Braille Block 'Q'
+BrailleBlock2.R.name=Braille Block 'R'
+BrailleBlock2.S.name=Braille Block 'S'
+BrailleBlock2.T.name=Braille Block 'T'
+BrailleBlock2.U.name=Braille Block 'U'
+BrailleBlock2.V.name=Braille Block 'V'
+BrailleBlock2.W.name=Braille Block 'W'
+BrailleBlock2.X.name=Braille Block 'X'
+BrailleBlock2.Y.name=Braille Block 'Y'
+BrailleBlock2.Z.name=Braille Block 'Z'
+BrailleBlock2...name=Braille Block '.'
+BrailleBlock2.,.name=Braille Block ','
+BrailleBlock2._.name=Blank Braille Block
 
 pixelmon.dev.name=Pixelmon Dev
 pixelmon.dev.join=has joined.
